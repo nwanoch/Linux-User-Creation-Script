@@ -2,7 +2,7 @@
 
 ## Task Description
 
-The task as a SysOps engineer is to create a bash script called create_users.sh that automates the process of creating user accounts on a Linux system based on input provided in a text file. Each line in the input file should specify a username and associated groups delimited by semicolons (user;group1,group2,...). The script should handle user and group creation, set up home directories with appropriate permissions, generate random passwords, and log all actions.
+The task as a SysOps engineer is to create a bash script called create_users.sh that automates the process of creating user accounts on a Linux system based on input provided in a text file. Each line in the input file should specify a username and associated groups delimited by semicolons (user;group1,group2,...). The script handles user and group creation, set up home directories with appropriate permissions, generate random passwords, and log all actions.
 
 ## Solution Overview
 
