@@ -37,5 +37,5 @@ Check /var/log/user_management.log for detailed logs of all actions.
 Verify /var/secure/user_passwords.txt for securely stored user passwords.
 
 Technical Article
-For a detailed explanation of the script implementation and rationale behind each step, please refer to the technical [article](URL)
+For a detailed explanation of the script implementation and rationale behind each step, please refer to the technical [article](https://nwanoch.medium.com/automating-linux-user-creation-with-bash-scripts-ef7348cf3696)
 associated with this repository.
